@@ -4,11 +4,11 @@ An algorithm for assigning seats within a movie theater to fulfill reservation r
 The movie theater has the seating arrangement of 10 rows x
 20 seats.
 
-Input file-
-1]Input file should be a text file containing all the reservation requests.
+Input file-<br>
+1]Input file should be a text file containing all the reservation requests.<br>
 2]Each line in the file will be comprised of a reservation identifier, followed by a
 space, and then the number of seats requested. The reservation
-identifier will have the format: R####.
+identifier will have the format: R####.<br>
 3]There should not be any empty space between two reservations.
 Example.
 R001 2
